@@ -1,1 +1,2 @@
 print('sadem')
+print('malak')
